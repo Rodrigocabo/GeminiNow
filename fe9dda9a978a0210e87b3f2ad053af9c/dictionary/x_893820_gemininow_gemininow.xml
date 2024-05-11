@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="abfdd2da978a0210e87b3f2ad053afe1" label="GeminiNow" max_length="40" name="x_893820_gemininow_gemininow" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Question" max_length="1000000" name="question" type="string"/>
+        <element label="Response" max_length="10000" name="response" type="string"/>
+    </element>
+</database>
