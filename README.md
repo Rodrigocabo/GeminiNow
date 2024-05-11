@@ -17,9 +17,7 @@ Funcionalidades:
 
 Perguntas em linguagem natural: Os usuários podem fazer perguntas em linguagem natural sobre qualquer tópico relacionado ao ServiceNow, sem a necessidade de usar comandos ou sintaxe específicos.
 Respostas abrangentes: O Gemini acessa e processa dados do ServiceNow para gerar respostas abrangentes e informativas às perguntas dos usuários.
-Diversos formatos: As respostas podem ser formatadas em diferentes estilos, como texto simples, tabelas, gráficos e até mesmo código.
-Capacidade de aprendizado: O Gemini aprende com cada interação, aprimorando sua capacidade de compreender e responder às perguntas dos usuários ao longo do tempo.
-Campos:
+
 
 Resposta: Este campo recebe a pergunta do usuário e a envia para o Gemini.
 Pergunta: Este campo recebe a resposta do Gemini e a exibe para o usuário.
